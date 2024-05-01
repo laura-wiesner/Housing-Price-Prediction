@@ -1,7 +1,7 @@
 # House Price Prediction Using Advanced Regression Techniques
 
 ## Overview
-This repository contains a series of Jupyter notebooks that demonstrate the process of predicting house prices using advanced regression techniques like LASSO and Ridge. The project is structured into data manipulation, model building, and additional models with visualizations.
+This repository contains a series of Jupyter notebooks that demonstrate the process of predicting house prices using advanced regression techniques like LASSO and Random Forest. The project is structured into data manipulation, model building, and additional models with visualizations.
 
 ## Project Structure
 - `house_prcies_data_manipulation.ipynb`: Prepares and cleans the housing data for analysis.
